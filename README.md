@@ -1,4 +1,6 @@
-# Water-Wave-Funneling-Power-Generator
+# Water-Wave-Funneling-Power-Generator </br>
+
+![alttext](https://github.com/Aightm8/Water-Wave-Funneling-Power-Generator/blob/master/WWFPG%20white%20background.PNG)
 
 
 **Description and operation**
@@ -13,6 +15,8 @@ There are pre-existing wave power energy generation systems ranging from simple 
 Sea waves have a certain energy per unit area. As the funnel channels the waves, the energy per unit area is increased. The waves in the generator region would have a higher value for energy per unit area that those at the inlet. Because of this, the WWFPG is the equivalent of having the plurality of generator units but expanding to cover a large area. The WWFPG however would be less costly to build and maintain as the generator region covers a smaller area.
 The structure could also be used for secondary applications. For example: To collect trash flowing back towards land; Small wind turbines or solar panels could be added to collect more energy; It could collect data for research and meteorology; It could be used to dock small boats and recreational vehicles; It could also be used similar to a pier, allowing people to use it as a recreational point which could circumvent any visual pollution it would cause. Wave power in itself boasts several advantages being renewable, environmentally freindly, abundant and easily predictable.
 </br>
+</br>
+![alttext](https://github.com/Aightm8/Water-Wave-Funneling-Power-Generator/blob/master/WWFPG%20used%20for%20%20recreation.PNG)
 </br>
 **Limitations and solutions** 
 </br>

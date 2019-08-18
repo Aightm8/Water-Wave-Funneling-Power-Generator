@@ -25,3 +25,6 @@ One can expect the WWFPG to also harbour the disadvantages of wave power such as
 </br>
 </br>
 Diagrams and design files of the WWFPG are available above.
+</br>
+The Water Wave Funneling Power Generator is licensed under the TAPR Open Hardware License (www.tapr.org/OHL).
+In support of open source innovation in strengthening renewables and combating climate change.

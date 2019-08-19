@@ -1,4 +1,8 @@
 # Water-Wave-Funneling-Power-Generator </br>
+<br>
+This is currently a concept, a working model is yet to be built.
+<br>
+<br>
 
 ![alttext](https://github.com/Aightm8/Water-Wave-Funneling-Power-Generator/blob/master/WWFPG%20white%20background.PNG)
 
